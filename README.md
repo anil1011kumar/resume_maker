@@ -1,4 +1,4 @@
-# resume_maker
+# git_demo
 This is project to make a resume for job ready.
 <br>
 Author-Anil Birajdar(web developer)
