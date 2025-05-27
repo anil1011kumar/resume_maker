@@ -1,4 +1,4 @@
 # git_demo
-This is project to make a resume for job ready.
+This is Git Demo
 <br>
 Author-Anil Birajdar(web developer)
